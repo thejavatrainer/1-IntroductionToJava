@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.frequentis.ps.ps-conversation:ps-conversation-contract:19.8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/frequentis/ps/ps-conversation/ps-conversation-contract/19.8.1/ps-conversation-contract-19.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/frequentis/ps/ps-conversation/ps-conversation-contract/19.8.1/ps-conversation-contract-19.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/frequentis/ps/ps-conversation/ps-conversation-contract/19.8.1/ps-conversation-contract-19.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

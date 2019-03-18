@@ -1,0 +1,24 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.pmd
+.checkstyle
+.ruleset
+atlassian-ide-plugin.xml
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+!src/**/target
+!**/ps-media-target-types/src/**
+!**/ps-media-target-types/pom.xml
+**/com/frequentis/ps/account/contract/pojo/generated/
