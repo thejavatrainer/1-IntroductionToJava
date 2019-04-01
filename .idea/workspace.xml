@@ -7,6 +7,27 @@
     <option name="height" value="1000" />
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554139877460" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Phonebook1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alex.Phonebook1" />
+      <module name="my-maven-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Phonebook1" />
+      </list>
+    </recent_temporary>
   </component>
 </project>
