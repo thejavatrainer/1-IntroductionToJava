@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-conversation:ps-conversation-contract:19.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.platform:ps-communication-contract:11.1.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.platform:ps-bricks:11.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.8.9" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:19.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: net.jodah:lyra:0.5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.rholder:guava-retrying:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.platform:ps-core-contract:11.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-audio-file:ps-audio-file-types-contract:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-media:ps-recording-types:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-management:ps-configuration-contract:6.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-conversation:ps-media-target-types:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-conversation:ps-conversation-types:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.frequentis.ps.ps-management:ps-organisational-unit-types:1.0.0" level="project" />
+  </component>
+</module>
