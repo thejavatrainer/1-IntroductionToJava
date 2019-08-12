@@ -1,0 +1,5 @@
+javac my/second/app/MySecondClass.java
+jar -cf mySecondApp.jar my/second/app/MySecondClass.class
+
+java -classpath ".;./lib/*"  my/first/app/MyFirstApp
+javac -classpath ".;./lib/mySecondApp.jar"  my/first/app/MyFirstApp.java
